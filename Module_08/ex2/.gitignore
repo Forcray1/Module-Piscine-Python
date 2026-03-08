@@ -1,0 +1,4 @@
+.env
+__pycache__/
+
+# garanti que git ne verra pas le dossier .env (le ficher de secret)
